@@ -1,0 +1,305 @@
+,category,en,nl
+0,Math,This is math.,Dit is wiskunde.
+1,Math,That is math.,Dat is wiskunde.
+2,Math,There is math.,Er is wiskunde.
+3,Math,It is math.,Het is wiskunde.
+4,Math,This is algebra.,Dit is algebra.
+5,Math,That is algebra.,Dat is algebra.
+6,Math,There is algebra.,Er is algebra.
+7,Math,It is algebra.,Het is algebra.
+8,Math,This is geometry.,Dit is geometrie.
+9,Math,That is geometry.,Dat is geometrie.
+10,Math,There is geometry.,Er is geometrie.
+11,Math,It is geometry.,Het is geometrie.
+12,Math,This is calculus.,Dit is calculus.
+13,Math,That is calculus.,Dat is calculus.
+14,Math,There is calculus.,Er is calculus.
+15,Math,It is calculus.,Het is calculus.
+16,Math,This is an equation.,Dit is een vergelijking.
+17,Math,That is an equation.,Dat is een vergelijking.
+18,Math,There is an equation.,Er is een vergelijking.
+19,Math,Here is an equation.,Hier is een vergelijking.
+20,Math,The equation is here.,De vergelijking is hier.
+21,Math,The equation is there.,De vergelijking is er.
+22,Math,An equation is a thing.,Een vergelijking is iets.
+23,Math,It is an equation.,Het is een vergelijking.
+24,Math,These are equations.,Dit zijn vergelijkingen.
+25,Math,Those are equations.,Dat zijn vergelijkingen.
+26,Math,They are equations.,Het zijn vergelijkingen.
+27,Math,The equations are here.,De vergelijkingen zijn hier.
+28,Math,The equations are there.,De vergelijkingen zijn er.
+29,Math,Equations are things.,Vergelijkingen zijn dingen.
+30,Math,This is a computation.,Dit is een berekening.
+31,Math,That is a computation.,Dat is een berekening.
+32,Math,There is a computation.,Er is een berekening.
+33,Math,Here is a computation.,Hier is een berekening.
+34,Math,The computation is here.,De berekening is hier.
+35,Math,The computation is there.,De berekening is er.
+36,Math,A computation is a thing.,Een berekening is iets.
+37,Math,It is a computation.,Het is een berekening.
+38,Math,These are computations.,Dit zijn berekeningen.
+39,Math,Those are computations.,Dat zijn berekeningen.
+40,Math,They are computations.,Het zijn berekeningen.
+41,Math,The computations are here.,De berekeningen zijn hier.
+42,Math,The computations are there.,De berekeningen zijn er.
+43,Math,Computations are things.,Berekeningen zijn dingen.
+44,Math,This is a number.,Dit is een nummer.
+45,Math,That is a number.,Dat is een nummer.
+46,Math,There is a number.,Er is een nummer.
+47,Math,Here is a number.,Hier is een nummer.
+48,Math,The number is here.,Het nummer is hier.
+49,Math,The number is there.,Het nummer is er.
+50,Math,A number is a thing.,Een nummer is een ding.
+51,Math,It is a number.,Het is een nummer.
+52,Math,These are numbers.,Dit zijn cijfers.
+53,Math,Those are numbers.,Dat zijn cijfers.
+54,Math,They are numbers.,Het zijn cijfers.
+55,Math,The numbers are here.,De cijfers zijn hier.
+56,Math,The numbers are there.,De cijfers zijn er.
+57,Math,Numbers are things.,Nummers zijn dingen.
+58,Math,This is an addition.,Dit is een toevoeging.
+59,Math,That is an addition.,Dat is een toevoeging.
+60,Math,There is an addition.,Er is een toevoeging.
+61,Math,Here is an addition.,Hier is een toevoeging.
+62,Math,The addition is here.,De toevoeging is hier.
+63,Math,The addition is there.,De toevoeging is er.
+64,Math,An addition is a thing.,Een toevoeging is iets.
+65,Math,It is an addition.,Het is een toevoeging.
+66,Math,These are additions.,Dit zijn aanvullingen.
+67,Math,Those are additions.,Dat zijn aanvullingen.
+68,Math,They are additions.,Het zijn toevoegingen.
+69,Math,The additions are here.,De toevoegingen zijn hier.
+70,Math,The additions are there.,De toevoegingen zijn er.
+71,Math,Additions are things.,Toevoegingen zijn dingen.
+0,Arts,This is poetry.,Dit is poëzie.
+1,Arts,That is poetry.,Dat is poëzie.
+2,Arts,There is poetry.,Er is poëzie.
+3,Arts,It is poetry.,Het is poëzie.
+4,Arts,This is art.,Dit is kunst.
+5,Arts,That is art.,Dat is kunst.
+6,Arts,There is art.,Er is kunst.
+7,Arts,It is art.,Het is kunst.
+8,Arts,This is a dance.,Dit is een dans.
+9,Arts,That is a dance.,Dat is een dans.
+10,Arts,There is a dance.,Er is een dans.
+11,Arts,Here is a dance.,Hier is een dans.
+12,Arts,The dance is here.,De dans is hier.
+13,Arts,A dance is a thing.,Dansen is iets.
+14,Arts,It is a dance.,Het is een dans.
+15,Arts,They are dances.,Het zijn dansen.
+16,Arts,The dances are here.,De dansen zijn hier.
+17,Arts,The dances are there.,De dansen zijn er.
+18,Arts,Dances are things.,Dansen zijn dingen.
+19,Arts,This is literature.,Dit is literatuur.
+20,Arts,That is literature.,Dat is literatuur.
+21,Arts,There is literature.,Er is literatuur.
+22,Arts,It is literature.,Het is literatuur.
+23,Arts,This is a novel.,Dit is een roman.
+24,Arts,That is a novel.,Dat is een roman.
+25,Arts,There is a novel.,Er is een roman.
+26,Arts,Here is a novel.,Hier is een roman.
+27,Arts,The novel is here.,De roman is hier.
+28,Arts,A novel is a thing.,Een roman is iets.
+29,Arts,It is a novel.,Het is een roman.
+30,Arts,Those are novels.,Dat zijn romans.
+31,Arts,They are novels.,Het zijn romans.
+32,Arts,The novels are here.,De romans zijn hier.
+33,Arts,The novels are there.,De romans zijn er.
+34,Arts,Novels are things.,Romans zijn dingen.
+35,Arts,That is a symphony.,Dat is een symfonie.
+36,Arts,There is a symphony.,Er is een symfonie.
+37,Arts,Here is a symphony.,Hier is een symfonie.
+38,Arts,The symphony is here.,De symfonie is hier.
+39,Arts,The symphony is there.,De symfonie is er.
+40,Arts,A symphony is a thing.,Een symfonie is iets.
+41,Arts,These are symphonies.,Dit zijn symfonieën.
+42,Arts,Those are symphonies.,Dat zijn symfonieën.
+43,Arts,They are symphonies.,Het zijn symfonieën.
+44,Arts,The symphonies are here.,De symfonieën zijn hier.
+45,Arts,The symphonies are there.,De symfonieën zijn er.
+46,Arts,Symphonies are things.,Symfonieën zijn dingen.
+47,Arts,This is a drama.,Dit is een drama.
+48,Arts,That is a drama.,Dat is een drama.
+49,Arts,There is a drama.,Er is een drama.
+50,Arts,Here is a drama.,Hier is een drama.
+51,Arts,The drama is here.,Het drama is hier.
+52,Arts,The drama is there.,Het drama is er.
+53,Arts,A drama is a thing.,Een drama is iets.
+54,Arts,It is a drama.,Het is een drama.
+55,Arts,These are dramas.,Dit zijn drama's.
+56,Arts,Those are dramas.,Dat zijn drama's.
+57,Arts,They are dramas.,Het zijn drama's.
+58,Arts,The dramas are here.,De drama's zijn hier.
+59,Arts,The dramas are there.,De drama's zijn er.
+60,Arts,Dramas are things.,Drama's zijn dingen.
+61,Arts,This is a sculpture.,Dit is een sculptuur.
+62,Arts,That is a sculpture.,Dat is een sculptuur.
+63,Arts,There is a sculpture.,Er staat een sculptuur.
+64,Arts,Here is a sculpture.,Hier is een sculptuur.
+65,Arts,The sculpture is here.,Het beeld is hier.
+66,Arts,The sculpture is there.,Het beeld is er.
+67,Arts,It is a sculpture.,Het is een sculptuur.
+68,Arts,Those are sculptures.,Dat zijn sculpturen.
+69,Arts,The sculptures are here.,De sculpturen zijn hier.
+70,Arts,The sculptures are there.,De sculpturen zijn er.
+71,Arts,Sculptures are things.,Sculpturen zijn dingen.
+0,MaleTerms,This is a male.,Dit is een mannelijk.
+1,MaleTerms,That is a male.,Dat is een mannelijk.
+2,MaleTerms,There is a male.,Er is een mannelijk.
+3,MaleTerms,Here is a male.,Hier is een mannelijk.
+4,MaleTerms,The male is here.,Het mannelijk is hier.
+5,MaleTerms,The male is there.,Het mannelijk is daar.
+6,MaleTerms,A male is a person.,Een man is een persoon.
+7,MaleTerms,These are males.,Dit zijn mannelijks.
+8,MaleTerms,Those are males.,Dat zijn mannelijks.
+9,MaleTerms,They are males.,Het zijn mannelijks.
+10,MaleTerms,The males are here.,De mannelijks zijn hier.
+11,MaleTerms,The males are there.,De mannelijks zijn er.
+12,MaleTerms,Males are people.,Mannelijks zijn mensen.
+13,MaleTerms,This is a man.,Dit is een man.
+14,MaleTerms,That is a man.,Dat is een man.
+15,MaleTerms,There is a man.,Daar is een man.
+16,MaleTerms,Here is a man.,Hier is een man.
+17,MaleTerms,The man is here.,De man is hier.
+18,MaleTerms,The man is there.,De man is daar.
+19,MaleTerms,A man is a person.,Een man is een persoon.
+20,MaleTerms,These are men.,Dit zijn mannen.
+21,MaleTerms,Those are men.,Dat zijn mannen.
+22,MaleTerms,They are men.,Ze zijn mannen.
+23,MaleTerms,The men are here.,De mannen zijn hier.
+24,MaleTerms,The men are there.,De mannen zijn er.
+25,MaleTerms,Men are people.,Mannen zijn mensen.
+26,MaleTerms,This is a boy.,Dit is een jongen.
+27,MaleTerms,That is a boy.,Dat is een jongen.
+28,MaleTerms,There is a boy.,Er is een jongen.
+29,MaleTerms,Here is a boy.,Hier is een jongen.
+30,MaleTerms,The boy is here.,De jongen is hier.
+31,MaleTerms,The boy is there.,De jongen is daar.
+32,MaleTerms,A boy is a person.,Een jongen is een persoon.
+33,MaleTerms,These are boys.,Dit zijn jongens.
+34,MaleTerms,Those are boys.,Dat zijn jongens.
+35,MaleTerms,They are boys.,Het zijn jongens.
+36,MaleTerms,The boys are here.,De jongens zijn hier.
+37,MaleTerms,The boys are there.,De jongens zijn er.
+38,MaleTerms,Boys are people.,Jongens zijn mensen.
+39,MaleTerms,This is a brother.,Dit is een broer.
+40,MaleTerms,That is a brother.,Dat is een broer.
+41,MaleTerms,There is a brother.,Er is een broer.
+42,MaleTerms,Here is a brother.,Hier is een broer.
+43,MaleTerms,The brother is here.,De broer is hier.
+44,MaleTerms,The brother is there.,De broer is daar.
+45,MaleTerms,A brother is a person.,Een broer is een persoon.
+46,MaleTerms,These are brothers.,Dit zijn broers.
+47,MaleTerms,Those are brothers.,Dat zijn broers.
+48,MaleTerms,They are brothers.,Ze zijn broers.
+49,MaleTerms,The brothers are here.,De broers zijn hier.
+50,MaleTerms,The brothers are there.,De broers zijn er.
+51,MaleTerms,Brothers are people.,Broers zijn mensen.
+52,MaleTerms,He is here.,Hij is hier.
+53,MaleTerms,He is there.,Hij is daar.
+54,MaleTerms,Here he is.,Hier is hij.
+55,MaleTerms,There he is.,Daar is hij.
+56,MaleTerms,He is a person.,Hij is een persoon.
+57,MaleTerms,It is him.,Het is hem.
+58,MaleTerms,This is him.,Dit is hem.
+59,MaleTerms,That is him.,Dat is hem.
+60,MaleTerms,This is his.,Dit is zijn.
+61,MaleTerms,That is his.,Dat is van hem.
+62,MaleTerms,There is his.,Er is zijn.
+63,MaleTerms,Here is his.,Hier is zijn.
+64,MaleTerms,It is his.,Het is van hem.
+65,MaleTerms,His is there.,Zijn is er.
+66,MaleTerms,His is here.,Van hem is hier.
+67,MaleTerms,This is a son.,Dit is een zoon.
+68,MaleTerms,That is a son.,Dat is een zoon.
+69,MaleTerms,There is a son.,Er is een zoon.
+70,MaleTerms,Here is a son.,Hier is een zoon.
+71,MaleTerms,The son is here.,De zoon is hier.
+72,MaleTerms,The son is there.,De zoon is er.
+73,MaleTerms,A son is a person.,Een zoon is een persoon.
+74,MaleTerms,These are sons.,Dit zijn zonen.
+75,MaleTerms,Those are sons.,Dat zijn zonen.
+76,MaleTerms,They are sons.,Het zijn zonen.
+77,MaleTerms,The sons are here.,De zonen zijn hier.
+78,MaleTerms,The sons are there.,De zonen zijn er.
+79,MaleTerms,Sons are people.,Zonen zijn mensen.
+0,FemaleTerms,This is a female.,Dit is een vrouwtje.
+1,FemaleTerms,That is a female.,Dat is een vrouwtje.
+2,FemaleTerms,There is a female.,Er is een vrouwtje.
+3,FemaleTerms,Here is a female.,Hier is een vrouwtje.
+4,FemaleTerms,The female is here.,Het vrouwtje is hier.
+5,FemaleTerms,The female is there.,Het vrouwtje is er.
+6,FemaleTerms,A female is a person.,Een vrouw is een persoon.
+7,FemaleTerms,These are females.,Dit zijn vrouwtjes.
+8,FemaleTerms,Those are females.,Dat zijn vrouwtjes.
+9,FemaleTerms,They are females.,Het zijn vrouwtjes.
+10,FemaleTerms,The females are here.,De vrouwtjes zijn hier.
+11,FemaleTerms,The females are there.,De vrouwtjes zijn er.
+12,FemaleTerms,Females are people.,Vrouwtjes zijn mensen.
+13,FemaleTerms,This is a woman.,Dit is een vrouw.
+14,FemaleTerms,That is a woman.,Dat is een vrouw.
+15,FemaleTerms,There is a woman.,Er is een vrouw.
+16,FemaleTerms,Here is a woman.,Hier is een vrouw.
+17,FemaleTerms,The woman is here.,De vrouw is hier.
+18,FemaleTerms,The woman is there.,De vrouw is daar.
+19,FemaleTerms,A woman is a person.,Een vrouw is een persoon.
+20,FemaleTerms,These are women.,Dit zijn vrouwen.
+21,FemaleTerms,Those are women.,Dat zijn vrouwen.
+22,FemaleTerms,They are women.,Zij zijn vrouwen.
+23,FemaleTerms,The women are here.,De vrouwen zijn hier.
+24,FemaleTerms,The women are there.,De vrouwen zijn er.
+25,FemaleTerms,Women are people.,Vrouwen zijn mensen.
+26,FemaleTerms,This is a girl.,Dit is een meisje.
+27,FemaleTerms,That is a girl.,Dat is een meisje.
+28,FemaleTerms,There is a girl.,Er is een meisje.
+29,FemaleTerms,Here is a girl.,Hier is een meisje.
+30,FemaleTerms,The girl is here.,Het meisje is hier.
+31,FemaleTerms,The girl is there.,Het meisje is daar.
+32,FemaleTerms,A girl is a person.,Een meisje is een persoon.
+33,FemaleTerms,These are girls.,Dit zijn meisjes.
+34,FemaleTerms,Those are girls.,Dat zijn meisjes.
+35,FemaleTerms,They are girls.,Ze zijn meisjes.
+36,FemaleTerms,The girls are here.,De meisjes zijn hier.
+37,FemaleTerms,The girls are there.,De meisjes zijn er.
+38,FemaleTerms,Girls are people.,Meisjes zijn mensen.
+39,FemaleTerms,This is a sister.,Dit is een zus.
+40,FemaleTerms,That is a sister.,Dat is een zus.
+41,FemaleTerms,There is a sister.,Er is een zus.
+42,FemaleTerms,Here is a sister.,Hier is een zus.
+43,FemaleTerms,The sister is here.,De zus is hier.
+44,FemaleTerms,The sister is there.,De zus is daar.
+45,FemaleTerms,A sister is a person.,Een zus is een persoon.
+46,FemaleTerms,These are sisters.,Dit zijn zussen.
+47,FemaleTerms,Those are sisters.,Dat zijn zussen.
+48,FemaleTerms,They are sisters.,Ze zijn zussen.
+49,FemaleTerms,The sisters are here.,De zussen zijn hier.
+50,FemaleTerms,The sisters are there.,De zussen zijn er.
+51,FemaleTerms,Sisters are people.,Zussen zijn mensen.
+52,FemaleTerms,She is here.,Ze is hier.
+53,FemaleTerms,She is there.,Zij is daar.
+54,FemaleTerms,Here she is.,Hier is ze.
+55,FemaleTerms,There she is.,Daar is ze.
+56,FemaleTerms,She is a person.,Ze is een persoon.
+57,FemaleTerms,It is her.,Zij is het.
+58,FemaleTerms,This is her.,Dit is haar.
+59,FemaleTerms,That is her.,Dat is haar.
+60,FemaleTerms,This is hers.,Dit is van haar.
+61,FemaleTerms,That is hers.,Dat is van haar.
+62,FemaleTerms,There is hers.,Er is haar.
+63,FemaleTerms,Here is hers.,Hier is de hare.
+64,FemaleTerms,It is hers.,Het is van haar.
+65,FemaleTerms,Hers is there.,Haar is er.
+66,FemaleTerms,Hers is here.,Ze is hier.
+67,FemaleTerms,This is a daughter.,Dit is een dochter.
+68,FemaleTerms,That is a daughter.,Dat is een dochter.
+69,FemaleTerms,There is a daughter.,Er is een dochter.
+70,FemaleTerms,Here is a daughter.,Hier is een dochter.
+71,FemaleTerms,The daughter is here.,De dochter is hier.
+72,FemaleTerms,The daughter is there.,De dochter is er.
+73,FemaleTerms,A daughter is a person.,Een dochter is een persoon.
+74,FemaleTerms,These are daughters.,Dit zijn dochters.
+75,FemaleTerms,Those are daughters.,Dat zijn dochters.
+76,FemaleTerms,They are daughters.,Het zijn dochters.
+77,FemaleTerms,The daughters are here.,De dochters zijn er.
+78,FemaleTerms,The daughters are there.,De dochters zijn er.
+79,FemaleTerms,Daughters are people.,Dochters zijn mensen.

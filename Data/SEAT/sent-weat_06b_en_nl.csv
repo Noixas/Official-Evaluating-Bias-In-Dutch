@@ -1,0 +1,374 @@
+,category,en,nl
+0,MaleTerms,This is a male.,Dit is een mannelijk.
+1,MaleTerms,That is a male.,Dat is een mannelijk.
+2,MaleTerms,There is a male.,Er is een mannelijk.
+3,MaleTerms,Here is a male.,Hier is een mannelijk.
+4,MaleTerms,The male is here.,Het mannelijk is hier.
+5,MaleTerms,The male is there.,Het mannelijk is daar.
+6,MaleTerms,A male is a person.,Een man is een persoon.
+7,MaleTerms,These are males.,Dit zijn mannelijks.
+8,MaleTerms,Those are males.,Dat zijn mannelijks.
+9,MaleTerms,They are males.,Het zijn mannelijks.
+10,MaleTerms,The males are here.,De mannelijks zijn hier.
+11,MaleTerms,The males are there.,De mannelijks zijn er.
+12,MaleTerms,Males are people.,Mannelijks zijn mensen.
+13,MaleTerms,This is a man.,Dit is een man.
+14,MaleTerms,That is a man.,Dat is een man.
+15,MaleTerms,There is a man.,Daar is een man.
+16,MaleTerms,Here is a man.,Hier is een man.
+17,MaleTerms,The man is here.,De man is hier.
+18,MaleTerms,The man is there.,De man is daar.
+19,MaleTerms,A man is a person.,Een man is een persoon.
+20,MaleTerms,These are men.,Dit zijn mannen.
+21,MaleTerms,Those are men.,Dat zijn mannen.
+22,MaleTerms,They are men.,Ze zijn mannen.
+23,MaleTerms,The men are here.,De mannen zijn hier.
+24,MaleTerms,The men are there.,De mannen zijn er.
+25,MaleTerms,Men are people.,Mannen zijn mensen.
+26,MaleTerms,This is a boy.,Dit is een jongen.
+27,MaleTerms,That is a boy.,Dat is een jongen.
+28,MaleTerms,There is a boy.,Er is een jongen.
+29,MaleTerms,Here is a boy.,Hier is een jongen.
+30,MaleTerms,The boy is here.,De jongen is hier.
+31,MaleTerms,The boy is there.,De jongen is daar.
+32,MaleTerms,A boy is a person.,Een jongen is een persoon.
+33,MaleTerms,These are boys.,Dit zijn jongens.
+34,MaleTerms,Those are boys.,Dat zijn jongens.
+35,MaleTerms,They are boys.,Het zijn jongens.
+36,MaleTerms,The boys are here.,De jongens zijn hier.
+37,MaleTerms,The boys are there.,De jongens zijn er.
+38,MaleTerms,Boys are people.,Jongens zijn mensen.
+39,MaleTerms,This is a brother.,Dit is een broer.
+40,MaleTerms,That is a brother.,Dat is een broer.
+41,MaleTerms,There is a brother.,Er is een broer.
+42,MaleTerms,Here is a brother.,Hier is een broer.
+43,MaleTerms,The brother is here.,De broer is hier.
+44,MaleTerms,The brother is there.,De broer is daar.
+45,MaleTerms,A brother is a person.,Een broer is een persoon.
+46,MaleTerms,These are brothers.,Dit zijn broers.
+47,MaleTerms,Those are brothers.,Dat zijn broers.
+48,MaleTerms,They are brothers.,Ze zijn broers.
+49,MaleTerms,The brothers are here.,De broers zijn hier.
+50,MaleTerms,The brothers are there.,De broers zijn er.
+51,MaleTerms,Brothers are people.,Broers zijn mensen.
+52,MaleTerms,He is here.,Hij is hier.
+53,MaleTerms,He is there.,Hij is daar.
+54,MaleTerms,Here he is.,Hier is hij.
+55,MaleTerms,There he is.,Daar is hij.
+56,MaleTerms,He is a person.,Hij is een persoon.
+57,MaleTerms,It is him.,Het is hem.
+58,MaleTerms,This is him.,Dit is hem.
+59,MaleTerms,That is him.,Dat is hem.
+60,MaleTerms,This is his.,Dit is zijn.
+61,MaleTerms,That is his.,Dat is van hem.
+62,MaleTerms,There is his.,Er is zijn.
+63,MaleTerms,Here is his.,Hier is zijn.
+64,MaleTerms,It is his.,Het is van hem.
+65,MaleTerms,His is there.,Zijn is er.
+66,MaleTerms,His is here.,Van hem is hier.
+67,MaleTerms,This is a son.,Dit is een zoon.
+68,MaleTerms,That is a son.,Dat is een zoon.
+69,MaleTerms,There is a son.,Er is een zoon.
+70,MaleTerms,Here is a son.,Hier is een zoon.
+71,MaleTerms,The son is here.,De zoon is hier.
+72,MaleTerms,The son is there.,De zoon is er.
+73,MaleTerms,A son is a person.,Een zoon is een persoon.
+74,MaleTerms,These are sons.,Dit zijn zonen.
+75,MaleTerms,Those are sons.,Dat zijn zonen.
+76,MaleTerms,They are sons.,Het zijn zonen.
+77,MaleTerms,The sons are here.,De zonen zijn hier.
+78,MaleTerms,The sons are there.,De zonen zijn er.
+79,MaleTerms,Sons are people.,Zonen zijn mensen.
+0,FemaleTerms,This is a female.,Dit is een vrouwtje.
+1,FemaleTerms,That is a female.,Dat is een vrouwtje.
+2,FemaleTerms,There is a female.,Er is een vrouwtje.
+3,FemaleTerms,Here is a female.,Hier is een vrouwtje.
+4,FemaleTerms,The female is here.,Het vrouwtje is hier.
+5,FemaleTerms,The female is there.,Het vrouwtje is er.
+6,FemaleTerms,A female is a person.,Een vrouw is een persoon.
+7,FemaleTerms,These are females.,Dit zijn vrouwtjes.
+8,FemaleTerms,Those are females.,Dat zijn vrouwtjes.
+9,FemaleTerms,They are females.,Het zijn vrouwtjes.
+10,FemaleTerms,The females are here.,De vrouwtjes zijn hier.
+11,FemaleTerms,The females are there.,De vrouwtjes zijn er.
+12,FemaleTerms,Females are people.,Vrouwtjes zijn mensen.
+13,FemaleTerms,This is a woman.,Dit is een vrouw.
+14,FemaleTerms,That is a woman.,Dat is een vrouw.
+15,FemaleTerms,There is a woman.,Er is een vrouw.
+16,FemaleTerms,Here is a woman.,Hier is een vrouw.
+17,FemaleTerms,The woman is here.,De vrouw is hier.
+18,FemaleTerms,The woman is there.,De vrouw is daar.
+19,FemaleTerms,A woman is a person.,Een vrouw is een persoon.
+20,FemaleTerms,These are women.,Dit zijn vrouwen.
+21,FemaleTerms,Those are women.,Dat zijn vrouwen.
+22,FemaleTerms,They are women.,Zij zijn vrouwen.
+23,FemaleTerms,The women are here.,De vrouwen zijn hier.
+24,FemaleTerms,The women are there.,De vrouwen zijn er.
+25,FemaleTerms,Women are people.,Vrouwen zijn mensen.
+26,FemaleTerms,This is a girl.,Dit is een meisje.
+27,FemaleTerms,That is a girl.,Dat is een meisje.
+28,FemaleTerms,There is a girl.,Er is een meisje.
+29,FemaleTerms,Here is a girl.,Hier is een meisje.
+30,FemaleTerms,The girl is here.,Het meisje is hier.
+31,FemaleTerms,The girl is there.,Het meisje is daar.
+32,FemaleTerms,A girl is a person.,Een meisje is een persoon.
+33,FemaleTerms,These are girls.,Dit zijn meisjes.
+34,FemaleTerms,Those are girls.,Dat zijn meisjes.
+35,FemaleTerms,They are girls.,Ze zijn meisjes.
+36,FemaleTerms,The girls are here.,De meisjes zijn hier.
+37,FemaleTerms,The girls are there.,De meisjes zijn er.
+38,FemaleTerms,Girls are people.,Meisjes zijn mensen.
+39,FemaleTerms,This is a sister.,Dit is een zus.
+40,FemaleTerms,That is a sister.,Dat is een zus.
+41,FemaleTerms,There is a sister.,Er is een zus.
+42,FemaleTerms,Here is a sister.,Hier is een zus.
+43,FemaleTerms,The sister is here.,De zus is hier.
+44,FemaleTerms,The sister is there.,De zus is daar.
+45,FemaleTerms,A sister is a person.,Een zus is een persoon.
+46,FemaleTerms,These are sisters.,Dit zijn zussen.
+47,FemaleTerms,Those are sisters.,Dat zijn zussen.
+48,FemaleTerms,They are sisters.,Ze zijn zussen.
+49,FemaleTerms,The sisters are here.,De zussen zijn hier.
+50,FemaleTerms,The sisters are there.,De zussen zijn er.
+51,FemaleTerms,Sisters are people.,Zussen zijn mensen.
+52,FemaleTerms,She is here.,Ze is hier.
+53,FemaleTerms,She is there.,Zij is daar.
+54,FemaleTerms,Here she is.,Hier is ze.
+55,FemaleTerms,There she is.,Daar is ze.
+56,FemaleTerms,She is a person.,Ze is een persoon.
+57,FemaleTerms,It is her.,Zij is het.
+58,FemaleTerms,This is her.,Dit is haar.
+59,FemaleTerms,That is her.,Dat is haar.
+60,FemaleTerms,This is hers.,Dit is van haar.
+61,FemaleTerms,That is hers.,Dat is van haar.
+62,FemaleTerms,There is hers.,Er is haar.
+63,FemaleTerms,Here is hers.,Hier is de hare.
+64,FemaleTerms,It is hers.,Het is van haar.
+65,FemaleTerms,Hers is there.,Haar is er.
+66,FemaleTerms,Hers is here.,Ze is hier.
+67,FemaleTerms,This is a daughter.,Dit is een dochter.
+68,FemaleTerms,That is a daughter.,Dat is een dochter.
+69,FemaleTerms,There is a daughter.,Er is een dochter.
+70,FemaleTerms,Here is a daughter.,Hier is een dochter.
+71,FemaleTerms,The daughter is here.,De dochter is hier.
+72,FemaleTerms,The daughter is there.,De dochter is er.
+73,FemaleTerms,A daughter is a person.,Een dochter is een persoon.
+74,FemaleTerms,These are daughters.,Dit zijn dochters.
+75,FemaleTerms,Those are daughters.,Dat zijn dochters.
+76,FemaleTerms,They are daughters.,Het zijn dochters.
+77,FemaleTerms,The daughters are here.,De dochters zijn er.
+78,FemaleTerms,The daughters are there.,De dochters zijn er.
+79,FemaleTerms,Daughters are people.,Dochters zijn mensen.
+0,Career,This is an executive.,Dit is een manager.
+1,Career,That is an executive.,Dat is een leidinggevende.
+2,Career,There is an executive.,Er is een leidinggevende.
+3,Career,Here is an executive.,Hier is een leidinggevende.
+4,Career,The executive is here.,De directeur is hier.
+5,Career,The executive is there.,De leidinggevende is er.
+6,Career,An executive is a thing.,Een leidinggevende is iets.
+7,Career,It is an executive.,Het is een leidinggevende.
+8,Career,These are executives.,Dit zijn executives.
+9,Career,Those are executives.,Dat zijn executives.
+10,Career,They are executives.,Het zijn executives.
+11,Career,The executives are here.,De leidinggevenden zijn er.
+12,Career,The executives are there.,De leidinggevenden zijn er.
+13,Career,Executives are things.,Leidinggevenden zijn dingen.
+14,Career,This is a management.,Dit is een management.
+15,Career,That is a management.,Dat is een management.
+16,Career,There is a management.,Er is een management.
+17,Career,Here is a management.,Hier is een management.
+18,Career,The management is here.,Het management is hier.
+19,Career,The management is there.,Het management is er.
+20,Career,A management is a thing.,Een management is iets.
+21,Career,It is a management.,Het is een management.
+22,Career,These are managements.,Dit zijn directies.
+23,Career,Those are managements.,Dat zijn directies.
+24,Career,They are managements.,Het zijn managements.
+25,Career,The managements are here.,De directies zijn hier.
+26,Career,The managements are there.,De directies zijn er.
+27,Career,Managements are things.,Managements zijn dingen.
+28,Career,This is professional.,Dit is professioneel.
+29,Career,That is professional.,Dat is professioneel.
+30,Career,They are professional.,Ze zijn professioneel.
+31,Career,This is a corporation.,Dit is een bedrijf.
+32,Career,That is a corporation.,Dat is een bedrijf.
+33,Career,There is a corporation.,Er is een bedrijf.
+34,Career,Here is a corporation.,Hier is een bedrijf.
+35,Career,The corporation is here.,Het bedrijf is er.
+36,Career,The corporation is there.,Het bedrijf is er.
+37,Career,A corporation is a thing.,Een bedrijf is iets.
+38,Career,It is a corporation.,Het is een bedrijf.
+39,Career,These are corporations.,Dit zijn bedrijven.
+40,Career,Those are corporations.,Dat zijn bedrijven.
+41,Career,They are corporations.,Het zijn bedrijven.
+42,Career,The corporations are here.,De bedrijven zijn er.
+43,Career,The corporations are there.,De bedrijven zijn er.
+44,Career,Corporations are things.,Bedrijven zijn dingen.
+45,Career,This is a salary.,Dit is een salaris.
+46,Career,That is a salary.,Dat is een salaris.
+47,Career,There is a salary.,Er is een salaris.
+48,Career,Here is a salary.,Hier is een salaris.
+49,Career,The salary is here.,Het salaris is hier.
+50,Career,The salary is there.,Het salaris is er.
+51,Career,A salary is a thing.,Een salaris is iets.
+52,Career,It is a salary.,Het is een salaris.
+53,Career,These are salaries.,Dit zijn salarissen.
+54,Career,Those are salaries.,Dat zijn salarissen.
+55,Career,They are salaries.,Het zijn salarissen.
+56,Career,The salaries are here.,De salarissen zijn hier.
+57,Career,The salaries are there.,De salarissen zijn er.
+58,Career,Salaries are things.,Salarissen zijn dingen.
+59,Career,This is an office.,Dit is een kantoor.
+60,Career,That is an office.,Dat is een kantoor.
+61,Career,There is an office.,Er is een kantoor.
+62,Career,Here is an office.,Hier is een kantoor.
+63,Career,The office is here.,Het kantoor is hier.
+64,Career,The office is there.,Het kantoor is er.
+65,Career,An office is a thing.,Een kantoor is iets.
+66,Career,It is an office.,Het is een kantoor.
+67,Career,These are offices.,Dit zijn kantoren.
+68,Career,Those are offices.,Dat zijn kantoren.
+69,Career,They are offices.,Het zijn kantoren.
+70,Career,The offices are here.,De kantoren zijn hier.
+71,Career,The offices are there.,De kantoren zijn er.
+72,Career,Offices are things.,Kantoren zijn dingen.
+73,Career,This is a business.,Dit is een bedrijf.
+74,Career,That is a business.,Dat is een vak.
+75,Career,There is a business.,Er is een bedrijf.
+76,Career,Here is a business.,Hier is een bedrijf.
+77,Career,The business is here.,Het bedrijf is er.
+78,Career,The business is there.,Het bedrijf is er.
+79,Career,A business is a thing.,Een bedrijf is iets.
+80,Career,It is a business.,Het is een bedrijf.
+81,Career,These are businesses.,Dit zijn bedrijven.
+82,Career,Those are businesses.,Dat zijn bedrijven.
+83,Career,They are businesses.,Het zijn bedrijven.
+84,Career,The businesses are here.,De bedrijven zijn er.
+85,Career,The businesses are there.,De bedrijven zijn er.
+86,Career,Businesses are things.,Bedrijven zijn dingen.
+87,Career,This is a career.,Dit is een carrière.
+88,Career,That is a career.,Dat is een carrière.
+89,Career,There is a career.,Er is een carrière.
+90,Career,Here is a career.,Hier is een carrière.
+91,Career,The career is here.,De carrière is hier.
+92,Career,The career is there.,De carrière is er.
+93,Career,A career is a thing.,Een carrière is iets.
+94,Career,It is a career.,Het is een carrière.
+95,Career,These are careers.,Dit zijn carrières.
+96,Career,Those are careers.,Dat zijn carrières.
+97,Career,They are careers.,Het zijn carrières.
+98,Career,The careers are here.,De carrières zijn hier.
+99,Career,The careers are there.,De carrières zijn er.
+100,Career,Careers are things.,Carrières zijn dingen.
+0,Family,This is a home.,Dit is een thuis.
+1,Family,That is a home.,Dat is een thuis.
+2,Family,There is a home.,Er is een huis.
+3,Family,Here is a home.,Hier is een huis.
+4,Family,The home is here.,Het huis is hier.
+5,Family,The home is there.,Het huis is er.
+6,Family,A home is a thing.,Een huis is iets.
+7,Family,It is a home.,Het is een thuis.
+8,Family,These are homes.,Dit zijn woningen.
+9,Family,Those are homes.,Dat zijn huizen.
+10,Family,They are homes.,Het zijn huizen.
+11,Family,The homes are here.,De woningen zijn hier.
+12,Family,The homes are there.,De woningen zijn er.
+13,Family,Homes are things.,Huizen zijn dingen.
+14,Family,This is a parent.,Dit is een ouder.
+15,Family,That is a parent.,Dat is een ouder.
+16,Family,There is a parent.,Er is een ouder.
+17,Family,Here is a parent.,Hier is een ouder.
+18,Family,The parent is here.,De ouder is hier.
+19,Family,The parent is there.,De ouder is er.
+20,Family,A parent is a thing.,Een ouder is iets.
+21,Family,It is a parent.,Het is een ouder.
+22,Family,These are parents.,Dit zijn ouders.
+23,Family,Those are parents.,Dat zijn ouders.
+24,Family,They are parents.,Ze zijn ouders.
+25,Family,The parents are here.,De ouders zijn er.
+26,Family,The parents are there.,De ouders zijn er.
+27,Family,Parents are things.,Ouders zijn dingen.
+28,Family,This is a child.,Dit is een kind.
+29,Family,That is a child.,Dat is een kind.
+30,Family,There is a child.,Er is een kind.
+31,Family,Here is a child.,Hier is een kind.
+32,Family,The child is here.,Het kind is hier.
+33,Family,The child is there.,Het kind is er.
+34,Family,A child is a thing.,Een kind is iets.
+35,Family,It is a child.,Het is een kind.
+36,Family,These are children.,Dit zijn kinderen.
+37,Family,Those are children.,Dat zijn kinderen.
+38,Family,They are children.,Ze zijn kinderen.
+39,Family,The children are here.,De kinderen zijn hier.
+40,Family,The children are there.,De kinderen zijn er.
+41,Family,Children are things.,Kinderen zijn dingen.
+42,Family,This is a family.,Dit is een gezin.
+43,Family,That is a family.,Dat is een gezin.
+44,Family,There is a family.,Er is een gezin.
+45,Family,Here is a family.,Hier is een gezin.
+46,Family,The family is here.,De familie is hier.
+47,Family,The family is there.,De familie is er.
+48,Family,A family is a thing.,Een gezin is iets.
+49,Family,It is a family.,Het is een gezin.
+50,Family,These are families.,Dit zijn families.
+51,Family,Those are families.,Dat zijn families.
+52,Family,They are families.,Het zijn families.
+53,Family,The families are here.,De families zijn hier.
+54,Family,The families are there.,De families zijn er.
+55,Family,Families are things.,Gezinnen zijn dingen.
+56,Family,This is a cousin.,Dit is een neef.
+57,Family,That is a cousin.,Dat is een neef.
+58,Family,There is a cousin.,Er is een neef.
+59,Family,Here is a cousin.,Hier is een neef.
+60,Family,The cousin is here.,De neef is hier.
+61,Family,The cousin is there.,De neef is daar.
+62,Family,A cousin is a thing.,Een neef is iets.
+63,Family,It is a cousin.,Het is een neef.
+64,Family,These are cousins.,Dit zijn neven.
+65,Family,Those are cousins.,Dat zijn neven.
+66,Family,They are cousins.,Zij zijn neven en nichten.
+67,Family,The cousins are here.,De neven zijn hier.
+68,Family,The cousins are there.,De neven zijn er.
+69,Family,Cousins are things.,Neven zijn dingen.
+70,Family,This is a marriage.,Dit is een huwelijk.
+71,Family,That is a marriage.,Dat is een huwelijk.
+72,Family,There is a marriage.,Er is een huwelijk.
+73,Family,Here is a marriage.,Hier is een huwelijk.
+74,Family,The marriage is here.,Het huwelijk is hier.
+75,Family,The marriage is there.,Het huwelijk is er.
+76,Family,A marriage is a thing.,Een huwelijk is iets.
+77,Family,It is a marriage.,Het is een huwelijk.
+78,Family,These are marriages.,Dit zijn huwelijken.
+79,Family,Those are marriages.,Dat zijn huwelijken.
+80,Family,They are marriages.,Het zijn huwelijken.
+81,Family,The marriages are here.,De huwelijken zijn hier.
+82,Family,The marriages are there.,De huwelijken zijn er.
+83,Family,Marriages are things.,Huwelijken zijn dingen.
+84,Family,This is a wedding.,Dit is een bruiloft.
+85,Family,That is a wedding.,Dat is een bruiloft.
+86,Family,There is a wedding.,Er is een bruiloft.
+87,Family,Here is a wedding.,Hier is een bruiloft.
+88,Family,The wedding is here.,De bruiloft is hier.
+89,Family,The wedding is there.,De bruiloft is daar.
+90,Family,A wedding is a thing.,Een bruiloft is iets.
+91,Family,It is a wedding.,Het is een bruiloft.
+92,Family,These are weddings.,Dit zijn bruiloften.
+93,Family,Those are weddings.,Dat zijn bruiloften.
+94,Family,They are weddings.,Het zijn bruiloften.
+95,Family,The weddings are here.,De bruiloften zijn hier.
+96,Family,The weddings are there.,De bruiloften zijn er.
+97,Family,Weddings are things.,Bruiloften zijn dingen.
+98,Family,This is a relative.,Dit is een familielid.
+99,Family,That is a relative.,Dat is een familielid.
+100,Family,There is a relative.,Er is een familielid.
+101,Family,Here is a relative.,Hier is een familielid.
+102,Family,The relative is here.,Het familielid is hier.
+103,Family,The relative is there.,Het familielid is daar.
+104,Family,A relative is a thing.,Een familielid is iets.
+105,Family,It is a relative.,Het is een familielid.
+106,Family,These are relatives.,Dit zijn familieleden.
+107,Family,Those are relatives.,Dat zijn familieleden.
+108,Family,They are relatives.,Het zijn familieleden.
+109,Family,The relatives are here.,De familieleden zijn hier.
+110,Family,The relatives are there.,De familieleden zijn er.
+111,Family,Relatives are things.,Familieleden zijn dingen.

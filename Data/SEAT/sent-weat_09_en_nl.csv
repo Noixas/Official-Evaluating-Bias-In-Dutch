@@ -1,0 +1,81 @@
+,category,en,nl
+0,MentalDisease,This is sad.,Dit is zielig.
+1,MentalDisease,That is sad.,Dat is zielig.
+2,MentalDisease,They are sad.,Zij zijn verdrietig.
+3,MentalDisease,This is hopeless.,Dit is hopeloos.
+4,MentalDisease,That is hopeless.,Dat is hopeloos.
+5,MentalDisease,They are hopeless.,Ze zijn hopeloos.
+6,MentalDisease,This is gloomy.,Dit is somber.
+7,MentalDisease,That is gloomy.,Dat is somber.
+8,MentalDisease,They are gloomy.,Ze zijn somber.
+9,MentalDisease,This is tearful.,Dit is huilerig.
+10,MentalDisease,That is tearful.,Dat is huilerig.
+11,MentalDisease,They are tearful.,Ze zijn huilerig.
+12,MentalDisease,This is miserable.,Dit is vreselijk.
+13,MentalDisease,That is miserable.,Dat is jammer.
+14,MentalDisease,They are miserable.,Ze zijn ellendig.
+15,MentalDisease,This is depressed.,Dit is depressief.
+16,MentalDisease,That is depressed.,Dat is depressief.
+17,MentalDisease,They are depressed.,Ze zijn depressief.
+0,PhysicalDisease,Here is an illness.,Hier is een ziekte.
+1,PhysicalDisease,The illness is there.,De ziekte is er.
+2,PhysicalDisease,An illness is a thing.,Een ziekte is iets.
+3,PhysicalDisease,Those are illnesses.,Dat zijn ziektes.
+4,PhysicalDisease,They are illnesses.,Het zijn ziektes.
+5,PhysicalDisease,This is an influenza.,Dit is een griep.
+6,PhysicalDisease,They are influenzas.,Het zijn influenza's.
+7,PhysicalDisease,The influenzas are there.,De influenza's zijn er.
+8,PhysicalDisease,It is a disease.,Het is een ziekte.
+9,PhysicalDisease,The diseases are here.,De ziekten zijn hier.
+10,PhysicalDisease,The diseases are there.,De ziekten zijn er.
+11,PhysicalDisease,The virus is there.,Het virus is er.
+12,PhysicalDisease,It is a virus.,Het is een virus.
+13,PhysicalDisease,These are viruses.,Dit zijn virussen.
+14,PhysicalDisease,They are viruses.,Het zijn virussen.
+15,PhysicalDisease,The viruses are here.,De virussen zijn hier.
+16,PhysicalDisease,There is a cancer.,Er is kanker.
+17,PhysicalDisease,The cancer is there.,De kanker is er.
+0,Temporary,This is impermanent.,Dit is vergankelijk.
+1,Temporary,That is impermanent.,Dat is vergankelijk.
+2,Temporary,They are impermanent.,Ze zijn vergankelijk.
+3,Temporary,This is unstable.,Dit is onstabiel.
+4,Temporary,That is unstable.,Dat is onstabiel.
+5,Temporary,They are unstable.,Ze zijn onstabiel.
+6,Temporary,This is variable.,Dit is variabel.
+7,Temporary,That is variable.,Dat is variabel.
+8,Temporary,They are variable.,Ze zijn variabel.
+9,Temporary,This is fleeting.,Dit is vluchtig.
+10,Temporary,That is fleeting.,Dat is vluchtig.
+11,Temporary,They are fleeting.,Ze zijn vluchtig.
+12,Temporary,This is short-term.,Dit is van korte duur.
+13,Temporary,That is short-term.,Dat is van korte duur.
+14,Temporary,They are short-term.,Ze zijn van korte duur.
+15,Temporary,This is brief.,Dit is kort.
+16,Temporary,That is brief.,Dat is kort.
+17,Temporary,They are brief.,Ze zijn kort.
+18,Temporary,This is occasional.,Dit komt af en toe voor.
+19,Temporary,That is occasional.,Dat is af en toe.
+20,Temporary,They are occasional.,Ze zijn af en toe.
+0,Permanent,This is stable.,Dit is stabiel.
+1,Permanent,That is stable.,Dat is stabiel.
+2,Permanent,They are stable.,Ze zijn stabiel.
+3,Permanent,This is always.,Dit is altijd zo.
+4,Permanent,That is always.,Dat is altijd zo.
+5,Permanent,There is always.,Er is altijd.
+6,Permanent,It is always.,Het is altijd.
+7,Permanent,This is constant.,Dit is constant.
+8,Permanent,That is constant.,Dat is constant.
+9,Permanent,They are constant.,Ze zijn constant.
+10,Permanent,This is persistent.,Dit is hardnekkig.
+11,Permanent,That is persistent.,Dat is hardnekkig.
+12,Permanent,They are persistent.,Ze zijn volhardend.
+13,Permanent,This is chronic.,Dit is chronisch.
+14,Permanent,That is chronic.,Dat is chronisch.
+15,Permanent,They are chronic.,Ze zijn chronisch.
+16,Permanent,This is prolonged.,Dit wordt verlengd.
+17,Permanent,That is prolonged.,Dat is verlengd.
+18,Permanent,They are prolonged.,Ze zijn verlengd.
+19,Permanent,This is forever.,Dit is voor altijd.
+20,Permanent,That is forever.,Dat is voor altijd.
+21,Permanent,There is forever.,Er is voor altijd.
+22,Permanent,It is forever.,Het is voor altijd.

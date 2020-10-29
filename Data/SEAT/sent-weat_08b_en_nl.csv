@@ -1,0 +1,241 @@
+,category,en,nl
+0,Science,This is science.,Dit is wetenschap.
+1,Science,That is science.,Dat is wetenschap.
+2,Science,There is science.,Er is wetenschap.
+3,Science,It is science.,Het is wetenschap.
+4,Science,This is a technology.,Dit is een technologie.
+5,Science,That is a technology.,Dat is een technologie.
+6,Science,There is a technology.,Er is een technologie.
+7,Science,Here is a technology.,Hier is een technologie.
+8,Science,The technology is here.,De technologie is er.
+9,Science,The technology is there.,De technologie is er.
+10,Science,A technology is a thing.,Een technologie is iets.
+11,Science,It is a technology.,Het is een technologie.
+12,Science,These are technologies.,Dit zijn technologieën.
+13,Science,Those are technologies.,Dat zijn technologieën.
+14,Science,They are technologies.,Het zijn technologieën.
+15,Science,The technologies are here.,De technologieën zijn er.
+16,Science,The technologies are there.,De technologieën zijn er.
+17,Science,Technologies are things.,Technologieën zijn dingen.
+18,Science,This is physics.,Dit is natuurkunde.
+19,Science,That is physics.,Dat is natuurkunde.
+20,Science,There is physics.,Er is natuurkunde.
+21,Science,It is physics.,Het is natuurkunde.
+22,Science,This is chemistry.,Dit is chemie.
+23,Science,That is chemistry.,Dat is chemie.
+24,Science,There is chemistry.,Er is chemie.
+25,Science,It is chemistry.,Het is chemie.
+26,Science,This is Einstein.,Dit is Einstein.
+27,Science,That is Einstein.,Dat is Einstein.
+28,Science,There is Einstein.,Er is Einstein.
+29,Science,Here is Einstein.,Hier is Einstein.
+30,Science,Einstein is here.,Einstein is hier.
+31,Science,Einstein is there.,Einstein is er.
+32,Science,Einstein is a person.,Einstein is een persoon.
+33,Science,The person's name is Einstein.,De naam van de persoon is Einstein.
+34,Science,This is NASA.,Dit is NASA.
+35,Science,That is NASA.,Dat is NASA.
+36,Science,There is NASA.,Er is NASA.
+37,Science,It is NASA.,Het is NASA.
+38,Science,This is an experiment.,Dit is een experiment.
+39,Science,That is an experiment.,Dat is een experiment.
+40,Science,There is an experiment.,Er is een experiment.
+41,Science,Here is an experiment.,Hier is een experiment.
+42,Science,The experiment is here.,Het experiment is hier.
+43,Science,The experiment is there.,Het experiment is er.
+44,Science,An experiment is a thing.,Een experiment is iets.
+45,Science,It is an experiment.,Het is een experiment.
+46,Science,These are experiments.,Dit zijn experimenten.
+47,Science,Those are experiments.,Dat zijn experimenten.
+48,Science,They are experiments.,Het zijn experimenten.
+49,Science,The experiments are here.,De experimenten zijn hier.
+50,Science,The experiments are there.,De experimenten zijn er.
+51,Science,Experiments are things.,Experimenten zijn dingen.
+52,Science,This is astronomy.,Dit is astronomie.
+53,Science,That is astronomy.,Dat is astronomie.
+54,Science,There is astronomy.,Er is astronomie.
+55,Science,It is astronomy.,Het is astronomie.
+0,Arts,This is poetry.,Dit is poëzie.
+1,Arts,That is poetry.,Dat is poëzie.
+2,Arts,This is art.,Dit is kunst.
+3,Arts,There is art.,Er is kunst.
+4,Arts,It is art.,Het is kunst.
+5,Arts,This is Shakespeare.,Dit is Shakespeare.
+6,Arts,That is Shakespeare.,Dat is Shakespeare.
+7,Arts,There is Shakespeare.,Er is Shakespeare.
+8,Arts,Here is Shakespeare.,Hier is Shakespeare.
+9,Arts,Shakespeare is there.,Shakespeare is er.
+10,Arts,The person's name is Shakespeare.,De naam van de persoon is Shakespeare.
+11,Arts,This is a dance.,Dit is een dans.
+12,Arts,That is a dance.,Dat is een dans.
+13,Arts,Here is a dance.,Hier is een dans.
+14,Arts,A dance is a thing.,Dansen is iets.
+15,Arts,These are dances.,Dit zijn dansen.
+16,Arts,Those are dances.,Dat zijn dansen.
+17,Arts,They are dances.,Het zijn dansen.
+18,Arts,The dances are here.,De dansen zijn hier.
+19,Arts,Dances are things.,Dansen zijn dingen.
+20,Arts,This is literature.,Dit is literatuur.
+21,Arts,That is literature.,Dat is literatuur.
+22,Arts,There is literature.,Er is literatuur.
+23,Arts,It is literature.,Het is literatuur.
+24,Arts,That is a novel.,Dat is een roman.
+25,Arts,There is a novel.,Er is een roman.
+26,Arts,The novel is here.,De roman is hier.
+27,Arts,The novel is there.,De roman is er.
+28,Arts,A novel is a thing.,Een roman is iets.
+29,Arts,It is a novel.,Het is een roman.
+30,Arts,These are novels.,Dit zijn romans.
+31,Arts,Those are novels.,Dat zijn romans.
+32,Arts,The novels are here.,De romans zijn hier.
+33,Arts,The novels are there.,De romans zijn er.
+34,Arts,Novels are things.,Romans zijn dingen.
+35,Arts,This is a symphony.,Dit is een symfonie.
+36,Arts,That is a symphony.,Dat is een symfonie.
+37,Arts,Here is a symphony.,Hier is een symfonie.
+38,Arts,The symphony is here.,De symfonie is hier.
+39,Arts,A symphony is a thing.,Een symfonie is iets.
+40,Arts,It is a symphony.,Het is een symfonie.
+41,Arts,These are symphonies.,Dit zijn symfonieën.
+42,Arts,Those are symphonies.,Dat zijn symfonieën.
+43,Arts,The symphonies are there.,De symfonieën zijn er.
+44,Arts,Symphonies are things.,Symfonieën zijn dingen.
+45,Arts,This is a drama.,Dit is een drama.
+46,Arts,That is a drama.,Dat is een drama.
+47,Arts,There is a drama.,Er is een drama.
+48,Arts,The drama is here.,Het drama is hier.
+49,Arts,The drama is there.,Het drama is er.
+50,Arts,A drama is a thing.,Een drama is iets.
+51,Arts,It is a drama.,Het is een drama.
+52,Arts,These are dramas.,Dit zijn drama's.
+53,Arts,Those are dramas.,Dat zijn drama's.
+54,Arts,The dramas are here.,De drama's zijn hier.
+55,Arts,The dramas are there.,De drama's zijn er.
+0,MaleNames,This is John.,Dit is John.
+1,MaleNames,That is John.,Dat is John.
+2,MaleNames,There is John.,Er is John.
+3,MaleNames,Here is John.,Hier is John.
+4,MaleNames,John is here.,John is hier.
+5,MaleNames,John is there.,John is er.
+6,MaleNames,John is a person.,John is een persoon.
+7,MaleNames,The person's name is John.,De naam van de persoon is John.
+8,MaleNames,This is Paul.,Dit is Paul.
+9,MaleNames,That is Paul.,Dat is Paul.
+10,MaleNames,There is Paul.,Er is Paul.
+11,MaleNames,Here is Paul.,Hier is Paul.
+12,MaleNames,Paul is here.,Paul is hier.
+13,MaleNames,Paul is there.,Paul is er.
+14,MaleNames,Paul is a person.,Paul is een persoon.
+15,MaleNames,The person's name is Paul.,De persoon heet Paul.
+16,MaleNames,This is Mike.,Dit is Mike.
+17,MaleNames,That is Mike.,Dat is Mike.
+18,MaleNames,There is Mike.,Er is Mike.
+19,MaleNames,Here is Mike.,Hier is Mike.
+20,MaleNames,Mike is here.,Mike is hier.
+21,MaleNames,Mike is there.,Mike is er.
+22,MaleNames,Mike is a person.,Mike is een persoon.
+23,MaleNames,The person's name is Mike.,De naam van de persoon is Mike.
+24,MaleNames,This is Kevin.,Dit is Kevin.
+25,MaleNames,That is Kevin.,Dat is Kevin.
+26,MaleNames,There is Kevin.,Er is Kevin.
+27,MaleNames,Here is Kevin.,Hier is Kevin.
+28,MaleNames,Kevin is here.,Kevin is hier.
+29,MaleNames,Kevin is there.,Kevin is daar.
+30,MaleNames,Kevin is a person.,Kevin is een persoon.
+31,MaleNames,The person's name is Kevin.,De persoon heet Kevin.
+32,MaleNames,This is Steve.,Dit is Steve.
+33,MaleNames,That is Steve.,Dat is Steve.
+34,MaleNames,There is Steve.,Er is Steve.
+35,MaleNames,Here is Steve.,Hier is Steve.
+36,MaleNames,Steve is here.,Steve is hier.
+37,MaleNames,Steve is there.,Steve is daar.
+38,MaleNames,Steve is a person.,Steve is een persoon.
+39,MaleNames,The person's name is Steve.,De persoon heet Steve.
+40,MaleNames,This is Greg.,Dit is Greg.
+41,MaleNames,That is Greg.,Dat is Greg.
+42,MaleNames,There is Greg.,Er is Greg.
+43,MaleNames,Here is Greg.,Hier is Greg.
+44,MaleNames,Greg is here.,Greg is hier.
+45,MaleNames,Greg is there.,Greg is daar.
+46,MaleNames,Greg is a person.,Greg is een persoon.
+47,MaleNames,The person's name is Greg.,De naam van de persoon is Greg.
+48,MaleNames,This is Jeff.,Dit is Jeff.
+49,MaleNames,That is Jeff.,Dat is Jeff.
+50,MaleNames,There is Jeff.,Er is Jeff.
+51,MaleNames,Here is Jeff.,Hier is Jeff.
+52,MaleNames,Jeff is here.,Jeff is hier.
+53,MaleNames,Jeff is there.,Jeff is daar.
+54,MaleNames,Jeff is a person.,Jeff is een persoon.
+55,MaleNames,The person's name is Jeff.,De persoon heet Jeff.
+56,MaleNames,This is Bill.,Dit is Bill.
+57,MaleNames,That is Bill.,Dat is Bill.
+58,MaleNames,There is Bill.,Er is Bill.
+59,MaleNames,Here is Bill.,Hier is Bill.
+60,MaleNames,Bill is here.,Bill is hier.
+61,MaleNames,Bill is there.,Bill is er.
+62,MaleNames,Bill is a person.,Bill is een persoon.
+63,MaleNames,The person's name is Bill.,De naam van de persoon is Bill.
+0,FemaleNames,This is Amy.,Dit is Amy.
+1,FemaleNames,That is Amy.,Dat is Amy.
+2,FemaleNames,There is Amy.,Er is Amy.
+3,FemaleNames,Here is Amy.,Hier is Amy.
+4,FemaleNames,Amy is here.,Amy is hier.
+5,FemaleNames,Amy is there.,Amy is daar.
+6,FemaleNames,Amy is a person.,Amy is een persoon.
+7,FemaleNames,The person's name is Amy.,De naam van de persoon is Amy.
+8,FemaleNames,This is Joan.,Dit is Joan.
+9,FemaleNames,That is Joan.,Dat is Joan.
+10,FemaleNames,There is Joan.,Er is Joan.
+11,FemaleNames,Here is Joan.,Hier is Joan.
+12,FemaleNames,Joan is here.,Joan is hier.
+13,FemaleNames,Joan is there.,Joan is er.
+14,FemaleNames,Joan is a person.,Joan is een persoon.
+15,FemaleNames,The person's name is Joan.,De naam van de persoon is Joan.
+16,FemaleNames,This is Lisa.,Dit is Lisa.
+17,FemaleNames,That is Lisa.,Dat is Lisa.
+18,FemaleNames,There is Lisa.,Er is Lisa.
+19,FemaleNames,Here is Lisa.,Hier is Lisa.
+20,FemaleNames,Lisa is here.,Lisa is hier.
+21,FemaleNames,Lisa is there.,Lisa is er.
+22,FemaleNames,Lisa is a person.,Lisa is een persoon.
+23,FemaleNames,The person's name is Lisa.,De naam van de persoon is Lisa.
+24,FemaleNames,This is Sarah.,Dit is Sarah.
+25,FemaleNames,That is Sarah.,Dat is Sarah.
+26,FemaleNames,There is Sarah.,Er is Sarah.
+27,FemaleNames,Here is Sarah.,Hier is Sarah.
+28,FemaleNames,Sarah is here.,Sarah is hier.
+29,FemaleNames,Sarah is there.,Sarah is daar.
+30,FemaleNames,Sarah is a person.,Sarah is een persoon.
+31,FemaleNames,The person's name is Sarah.,De naam van de persoon is Sarah.
+32,FemaleNames,This is Diana.,Dit is Diana.
+33,FemaleNames,That is Diana.,Dat is Diana.
+34,FemaleNames,There is Diana.,Er is Diana.
+35,FemaleNames,Here is Diana.,Hier is Diana.
+36,FemaleNames,Diana is here.,Diana is hier.
+37,FemaleNames,Diana is there.,Diana is er.
+38,FemaleNames,Diana is a person.,Diana is een persoon.
+39,FemaleNames,The person's name is Diana.,De naam van de persoon is Diana.
+40,FemaleNames,This is Kate.,Dit is Kate.
+41,FemaleNames,That is Kate.,Dat is Kate.
+42,FemaleNames,There is Kate.,Er is Kate.
+43,FemaleNames,Here is Kate.,Hier is Kate.
+44,FemaleNames,Kate is here.,Kate is hier.
+45,FemaleNames,Kate is there.,Kate is daar.
+46,FemaleNames,Kate is a person.,Kate is een persoon.
+47,FemaleNames,The person's name is Kate.,De persoon heet Kate.
+48,FemaleNames,This is Ann.,Dit is Ann.
+49,FemaleNames,That is Ann.,Dat is Ann.
+50,FemaleNames,There is Ann.,Er is Ann.
+51,FemaleNames,Here is Ann.,Hier is Ann.
+52,FemaleNames,Ann is here.,Ann is hier.
+53,FemaleNames,Ann is there.,Ann is er.
+54,FemaleNames,Ann is a person.,Ann is een persoon.
+55,FemaleNames,The person's name is Ann.,De naam van de persoon is Ann.
+56,FemaleNames,This is Donna.,Dit is Donna.
+57,FemaleNames,That is Donna.,Dat is Donna.
+58,FemaleNames,There is Donna.,Er is Donna.
+59,FemaleNames,Here is Donna.,Hier is Donna.
+60,FemaleNames,Donna is here.,Donna is hier.
+61,FemaleNames,Donna is there.,Donna is daar.
+62,FemaleNames,Donna is a person.,Donna is een persoon.
+63,FemaleNames,The person's name is Donna.,De persoon heet Donna.
